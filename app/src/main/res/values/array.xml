@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="student_info">
+        <item>maiyah</item>
+        <item>sara</item>
+         <item>muna</item>
+         <item>shama</item>
+          <item>Ali</item>
+          <item>sara</item>
+         <item>muna</item>
+         <item>shama</item>
+          <item>Ali</item>
+    </string-array>
+    <string-array name="random_image">
+        <item>@mipmap/ic_launcher</item>
+        <item>@mipmap/ic_launcher</item>
+         <item>@mipmap/ic_launcher</item>
+         <item>@mipmap/ic_launcher</item>
+         <item>@mipmap/ic_launcher</item>
+        <item>@mipmap/ic_launcher</item>
+         <item>@mipmap/ic_launcher</item>
+         <item>@mipmap/ic_launcher</item>
+         <item>@mipmap/ic_launcher</item>
+    </string-array>
+</resources>
